@@ -5,6 +5,7 @@ The objective of this project was to conduct a thorough evaluation of Eastnat Li
 
 ##
 𝗠𝗔𝗡𝗔𝗚𝗘𝗠𝗘𝗡𝗧 𝗧𝗔𝗦𝗞
+<img width="1500" height="528" alt="image" src="https://github.com/user-attachments/assets/c821a6c5-cfd8-4100-b0f9-46ad7d2c0cbe" />
 
 ##
 
